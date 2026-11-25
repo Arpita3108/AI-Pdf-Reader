@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI PDF Research Assistant (RAG)
 
 Upload one or many PDFs, ask questions in plain English, and get answers grounded **only** in your documents, with the **document name and page number** for every source.
@@ -102,3 +103,7 @@ git remote add origin https://github.com/<you>/pdf-research-assistant.git
 git push -u origin main
 ```
 `.env` and `data/` are git-ignored.
+=======
+# AI-Pdf-Reader
+ppt of AI pdf Reader
+>>>>>>> 4e9061b9ab8dc4230ea78bed6ea2b6ff33d698d2
